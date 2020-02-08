@@ -84,3 +84,8 @@ Grab the PatchText that match with your Splatoon2 Version
 
 
 Now enjoy your mods!
+
+
+
+
+## [GO BACK](https://crustysean.github.io)
